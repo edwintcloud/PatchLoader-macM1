@@ -1,1 +1,2 @@
 # PatchLoader
+Follow directions [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2621916480) for installing patch loader mod as you normally would, taking note of the `DOORSTOP_INVOKE_DLL_PATH` file path as indicated in the the Cities_Loader.sh file. Navigate to this path (where the mod has been downloaded by steam) and replace the files with the files extracted from [this zip file](https://github.com/edwintcloud/PatchLoader-macM1/releases/download/2.1.2/PatchLoader_2_1_2.zip).
